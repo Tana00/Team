@@ -1255,7 +1255,7 @@ body {
 }
 
 .hero--with-bg {
-    background: #34323b url(../images/hero_homepage-small.jpg) no-repeat center top;
+    background: #34323b url(./images/hero_homepage-small.jpg) no-repeat center top;
     animation: fade .3s ease;
 }
 
