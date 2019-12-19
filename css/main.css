@@ -3454,7 +3454,7 @@ h4 {
     position: absolute;
     height: 100%;
     width: 100%;
-    background: url(../images/pics/seasons.jpg) no-repeat center top;
+    background: url("https://x-team.com/images/pics/seasons.jpg") no-repeat center top;
     background-size: 100%
 }
 
@@ -3462,7 +3462,7 @@ h4 {
     position: absolute;
     height: 100%;
     width: 100%;
-    background: url(../images/pics/jason-silva.jpg) no-repeat center top;
+    background: url("https://x-team.com/images/pics/jason-silva.jpg") no-repeat center top;
     background-size: 100%
 }
 
